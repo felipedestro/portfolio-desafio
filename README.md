@@ -1,4 +1,4 @@
-<h1 align="center"> API Libary </h1>
+<h1 align="center"> Portfólio com React Hooks </h1>
 
 <p align="center">
   <a href="#desafio-desenvolva-um-portfólio-com-react-hooks">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
